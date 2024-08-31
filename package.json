@@ -1,0 +1,24 @@
+{
+  "name": "basic-example",
+  "version": "1.0.0",
+  "description": "A simple example using Chemical.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chemicaljs/basic-example.git"
+  },
+  "author": "Nebelung",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/chemicaljs/basic-example/issues"
+  },
+  "homepage": "https://github.com/chemicaljs/basic-example#readme",
+  "dependencies": {
+    "chemicaljs": "^1.7.3",
+    "express": "^4.19.2"
+  }
+}
